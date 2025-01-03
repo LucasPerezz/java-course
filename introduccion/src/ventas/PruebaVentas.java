@@ -1,4 +1,4 @@
-package ventas;
+package introduccion.src.ventas;
 
 public class PruebaVentas {
     public static void main(String[] args) {

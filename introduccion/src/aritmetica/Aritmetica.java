@@ -1,4 +1,4 @@
-package aritmetica;
+package introduccion.src.aritmetica;
 
 public class Aritmetica {
     private int operando1;

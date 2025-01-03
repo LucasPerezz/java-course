@@ -1,4 +1,4 @@
-package ventas;
+package introduccion.src.ventas;
 
 public class Orden {
     private final int idOrden;

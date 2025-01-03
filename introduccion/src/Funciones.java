@@ -1,3 +1,5 @@
+package introduccion.src;
+
 import java.util.Random;
 
 public class Funciones {
@@ -16,13 +18,13 @@ public class Funciones {
     public static void main(String[] args) {
         saludar("hola mundo");
         System.out.println(suma(2, 2));
-        if(esPar(2)) {
+        if (esPar(2)) {
             System.out.println("Es par");
         } else {
             System.out.println("Es impar");
         }
 
-        //LARGO DE CADENA
+        // LARGO DE CADENA
         String text = "cadena";
         System.out.println(text.length());
 

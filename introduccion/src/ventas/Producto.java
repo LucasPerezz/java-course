@@ -1,4 +1,4 @@
-package ventas;
+package introduccion.src.ventas;
 
 public class Producto {
     private final int idProducto;

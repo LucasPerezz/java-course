@@ -1,6 +1,6 @@
-package aritmetica.prueba;
+package introduccion.src.aritmetica.prueba;
 
-import aritmetica.*;
+import introduccion.src.aritmetica.*;
 
 public class PruebaAritmetica {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package animales;
+package introduccion.src.animales;
 
 public class Animal {
 

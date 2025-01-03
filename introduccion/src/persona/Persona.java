@@ -1,4 +1,4 @@
-package persona;
+package introduccion.src.persona;
 
 public class Persona {
     private String nombre;

@@ -1,6 +1,6 @@
-package persona.prueba;
+package introduccion.src.persona.prueba;
 
-import persona.Persona;
+import introduccion.src.persona.Persona;
 
 public class PruebaPersona {
     public static void main(String[] args) {
